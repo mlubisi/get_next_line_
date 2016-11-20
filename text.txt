@@ -1,0 +1,3 @@
+Agai  Re
+ad and r
+eturn a line of 16 characters without \n included from a file.
